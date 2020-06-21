@@ -1,2 +1,2 @@
 # MDSClassicalBenchmarks
-#Three benchamrks: UDG, T1T2, AND BHOSLIB
+#Three benchmarks: UDG, T1T2, AND BHOSLIB
